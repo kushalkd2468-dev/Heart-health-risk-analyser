@@ -90,16 +90,8 @@ After the application launches, open the provided URL in your browser to interac
 - `read_and_preprocess_image(image)`: Reads and preprocesses medical images by resizing, normalizing, and preparing them for classification.
 - `classify_image(image)`: Predicts the class of the input image (Healthy, Mild Disease, Moderate Disease, Severe Disease, or Heart Attack) using the pre-trained model.
 
-# Professional Information
 
-- **Ritesh Godse**
-  - Specialization: Artificial Intelligence and Data Science
-  - Institution: Vishwakarma Institute of Information Technology
-  - Email: work.riteshgodse@gmail.com
 
-# License
-
-This project is licensed under the MIT License with the following conditions: users are permitted to use, modify, distribute, and sell copies of the software, provided that the copyright notice and permission notice are included in all copies or substantial portions of the software. Proper attribution to the author, Ritesh Godse, is required for any derived or redistributed work, and commercial use is prohibited without prior written consent. Modifications to the software must be clearly marked, and any changes should be documented. The software remains the intellectual property of Ritesh Godse, and it is provided "as is" without any warranties or liabilities.
 =======
 # Heart-health-risk-analyser
 AI-based retinal image analysis project using Python, YOLO and Streamlit.
