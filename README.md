@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OptiHeart Retinal Insight to Cardiac Health
 
 This repository contains an advanced machine learning solution for heart disease prediction and retinal image analysis. The app provides a two-fold solution:
@@ -99,3 +100,7 @@ After the application launches, open the provided URL in your browser to interac
 # License
 
 This project is licensed under the MIT License with the following conditions: users are permitted to use, modify, distribute, and sell copies of the software, provided that the copyright notice and permission notice are included in all copies or substantial portions of the software. Proper attribution to the author, Ritesh Godse, is required for any derived or redistributed work, and commercial use is prohibited without prior written consent. Modifications to the software must be clearly marked, and any changes should be documented. The software remains the intellectual property of Ritesh Godse, and it is provided "as is" without any warranties or liabilities.
+=======
+# Heart-health-risk-analyser
+AI-based retinal image analysis project using Python, YOLO and Streamlit.
+>>>>>>> 6860f5f63c392424f09ba78b26e83606cfb5242e
